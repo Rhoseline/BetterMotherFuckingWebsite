@@ -1,2 +1,2 @@
-Voici le lien vers le site web: <a href="http://bettermotherfuckingwebsite.com/">BetterMotherFuckingWebsite</a>
+<a href="http://bettermotherfuckingwebsite.com/">Cliquez ici!</a>
 <img src="" title="" alt="">
